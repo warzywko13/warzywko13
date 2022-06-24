@@ -7,3 +7,15 @@ Nazywam się Adam Wawrzyniak. Od dziecka interesuje się technologią. Swoją pr
 
 Aktualnie pracuje jako Konsultant Workflow tworząc projekty w Webcon BPS przy użyciu SQL i pseudokodu.
 Moim marzeniem jest zostać programistą webowym. Mam nadzieję, że uda mi się spełnić swoje marzenia 😊
+
+## Technologie jakie znam
+
+* MySQL i SQL w stopniu zaawansowanym
+* HTML 5
+* Javascript
+* PHP 8
+* Laravel - podstawy
+* React - podstawy
+* Java - podstawy
+* C# - podstawy
+* C++ - podstawy
