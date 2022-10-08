@@ -15,7 +15,7 @@ Moim marzeniem jest zostać programistą webowym. Mam nadzieję, że uda mi się
 * Javascript
 * PHP 8
 * Laravel - podstawy
-* React - podstawy
+* React - średniozaawansowany
 * Java - podstawy
 * C# - podstawy
 * C++ - podstawy
