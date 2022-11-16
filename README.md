@@ -13,9 +13,6 @@ Moim marzeniem jest zostać programistą webowym. Mam nadzieję, że uda mi się
 * MySQL i SQL w stopniu zaawansowanym
 * HTML 5
 * Javascript
-* PHP 8
+* PHP 7
 * Laravel - podstawy
 * React - średniozaawansowany
-* Java - podstawy
-* C# - podstawy
-* C++ - podstawy
