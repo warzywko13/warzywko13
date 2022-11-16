@@ -5,7 +5,7 @@ Nazywam się Adam Wawrzyniak. Od dziecka interesuje się technologią. Swoją pr
 
 ## Czym się aktualnie zajmuje
 
-Aktualnie pracuje jako Konsultant Workflow tworząc projekty w Webcon BPS przy użyciu SQL i pseudokodu.
+Aktualnie pracuje jako Konsultant Workflow tworząc projekty w Webcon BPS przy użyciu SQL i low-kodu.
 Moim marzeniem jest zostać programistą webowym. Mam nadzieję, że uda mi się spełnić swoje marzenia 😊
 
 ## Technologie jakie znam
