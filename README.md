@@ -17,3 +17,9 @@ Moim marzeniem jest zostać programistą webowym. Mam nadzieję, że uda mi się
 * Laravel - podstawy
 * React - średniozaawansowany
 * Typescript
+* Gatsby
+* Wordpress - podstawy
+
+## Portfolio
+
+www.remonty-wawrzyniak.pl
