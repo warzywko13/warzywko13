@@ -16,6 +16,7 @@ Moim marzeniem jest zostać programistą webowym. Mam nadzieję, że uda mi się
 * PHP 7
 * Laravel - podstawy
 * React - średniozaawansowany
+* React-native
 * Typescript
 * Gatsby
 * Wordpress - podstawy
