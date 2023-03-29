@@ -14,14 +14,16 @@ Moim marzeniem jest zostać programistą webowym. Mam nadzieję, że uda mi się
 * HTML 5
 * Javascript
 * PHP 7
-* Laravel - podstawy
-* React - średniozaawansowany
+* Laravel
+* React
 * React-native
 * Typescript
 * Gatsby
-* Wordpress - podstawy
+* REST i SOAP
+* Postman
+* jQuery
+* Scss, Bootstrap Tailwindcss
 
 ## Portfolio
 
-www.remonty-wawrzyniak.pl \
-www.wawrzyniak-adam.pl
+www.remonty-wawrzyniak.pl
