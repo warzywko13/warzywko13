@@ -26,5 +26,5 @@ Moim marzeniem jest zostać programistą webowym. Mam nadzieję, że uda mi się
 
 ## Portfolio
 
-[awawrzyniak.pl](http://awawrzyniak.pl/)
-www.remonty-wawrzyniak.pl
+* [awawrzyniak.pl](http://awawrzyniak.pl/)
+* www.remonty-wawrzyniak.pl
