@@ -1,12 +1,10 @@
 ## O mnie
 
-Witam,
-Nazywam się Adam Wawrzyniak. Od dziecka interesuje się technologią. Swoją przygodę z programowaniem rozpocząłem w 2010 roku od Pana Mirosława Zelenta.
+Witam, nazywam się Adam Wawrzyniak. Od dziecka zainteresowany jestem nowymi technologiami oraz motoryzacją. Swoją przygodę z programowaniem rozpocząłem już w 2010 roku, a pierwsze nauki pobierałem od Pana Mirosława Zelenta.
 
 ## Czym się aktualnie zajmuje
 
-Aktualnie pracuje jako Konsultant Workflow tworząc projekty w Webcon BPS przy użyciu SQL i low-kodu.
-Moim marzeniem jest zostać programistą webowym. Mam nadzieję, że uda mi się spełnić swoje marzenia 😊
+Aktualnie pracuje jako Konsultant Workflow tworząc projekty w Webcon BPS przy użyciu SQL i low-kodu. Obecnie dążę do pozostania  programistą webowym. Jestem przekonany, że wiedza oraz umiejętności, które posiadam pomogą mi dotrzeć do założonego sobie celu. 😊
 
 ## Technologie jakie znam
 
