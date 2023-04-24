@@ -27,4 +27,3 @@ Obecnie dążę do pozostania  programistą webowym. Jestem przekonany, że wied
 ## Portfolio
 
 * [awawrzyniak.pl](http://awawrzyniak.pl/)
-* www.remonty-wawrzyniak.pl
